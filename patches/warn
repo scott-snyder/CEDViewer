@@ -1,0 +1,8 @@
+Bottom: 52f608f0008fd70cc2c70840bcfdda1034a67e8b
+Top:    4b812e4f3e30f3890c971dddc86dbe749ae6d065
+Author: scott snyder <sss@karma>
+Date:   2020-02-03 00:27:48 -0500
+
+Fix compilation warnings.
+
+Unused arguments / variables + shadowed variables.
